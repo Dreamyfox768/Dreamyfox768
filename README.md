@@ -48,4 +48,4 @@
 > defense system status: **SECURED** 🔒
 > ready for breach detection... engaged. 🔐
 
-<img width="540" height="684" alt="image" src="https://github.com/user-attachments/assets/c8847ab9-1fa2-43dd-8be8-2dfdc786fd51" />
+
