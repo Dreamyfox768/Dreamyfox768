@@ -40,10 +40,10 @@
 
 ### 💻 Terminal Output
 ```bash
-> booting profile... 🚀
-> initializing quantum modules... ⏳
-> processing frameworks: Python / PyTorch / LangChain / TensorFlow
-> threat level: [⚠️] elevated, monitoring... 
-> pipeline: **ACTIVE** 🔥
-> system status: all systems nominal
-> ready for execution... engaged. ⚡
+> booting profile... 🔒
+> initializing defense protocols... 🛡️
+> scanning for threats... [🔍]
+> processing tools: **Kali Linux**, **Wireshark**, **Nmap**, **Metasploit**, **Burp Suite**
+> threat level: [⚠️] elevated, active countermeasures deployed
+> defense system status: **SECURED** 🔒
+> ready for breach detection... engaged. 🔐
