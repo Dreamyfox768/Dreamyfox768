@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-  <span style="color:#7df9ff;">I'm DreamyFox — Upcoming Engineer</span>
+  <span style="color:#7df9ff;">I'm an upcoming Engineer</span>
 </h2>
 
 ---
