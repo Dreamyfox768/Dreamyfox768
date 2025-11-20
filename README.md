@@ -1,36 +1,46 @@
-<h1 align="center">Hi 👋, I'm A</h1>
-<h3 align="center">Cybersecurity Engineer</h3>
+<!-- ====== CYBERPUNK PROFILE ====== -->
 
-- 🔭 I’m currently working on **AI SupportBot**  
-- 🌱 I’m currently learning **Python** and **C**  
-- 👯 I’m looking to collaborate on **AI Resume Projects**  
-- 💬 Ask me about **my projects**  
-- ⚡ Fun fact: **I love reading**  
+<h1 align="center">
+  <span style="color:#00ffee;">👾 Welcome, Traveler</span>
+</h1>
+
+<h2 align="center">
+  <span style="color:#ff00ff;">I'm A — Cybersecurity Engineer</span>
+</h2>
 
 ---
 
-### ⚡ Connect With Me
+### ⚡ System Status
+- 🔭 Working on: **AI SupportBot**
+- 🌱 Learning Modules: **Python**, **C**
+- 🤝 Collaboration Interest: **AI Resume Systems**
+- 💬 Query Input: **Ask me about my projects**
+- ⚡ Fun Fact: **I love reading**
+
+---
+
+### 🧬 Cyberpunk Skillset
 <p align="left">
-<!-- Add your social links here -->
-<!-- Example:
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
--->
+<img src="https://img.shields.io/badge/Arduino-00ffee?style=for-the-badge&logo=arduino&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-ff00ff?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-8f00ff?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-00ffee?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-ff0099?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-ff00ff?style=for-the-badge&logo=kotlin&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-00ffee?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-8f00ff?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00ffee?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-ff00ff?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-00ffee?style=for-the-badge&logo=sqlite&logoColor=black"/>
+<img src="https://img.shields.io/badge/TensorFlow-ff0099?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-</p>
+### 💻 Terminal Logs
+```bash
+> initializing profile...
+> loading cyberpunk identity...
+> firewall status: active
+> threat level: minimal
+> current mission: build AI systems
