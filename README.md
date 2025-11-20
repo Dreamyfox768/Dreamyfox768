@@ -1,21 +1,21 @@
-<!-- ====== FUTURISTIC PURPLE-BLUE PROFILE ====== -->
+<!-- ====== CYBERPUNK-STYLE PROFILE ====== -->
 
 <h1 align="center">
-  <span style="color:#6a5af9;">👋 HELLO AND WELCOME!</span>
+  <span style="color:#6a5af9;">💻✨ WELCOME TO MY DIGITAL WORLD</span>
 </h1>
 
 <h2 align="center">
-  <span style="color:#7df9ff;">I'm an upcoming Engineer</span>
+  <span style="color:#7df9ff;">🚀 Aspiring Engineer | Tech Enthusiast | AI Architect</span>
 </h2>
 
 ---
 
 ### ⚡ Status
-- 🔭 Working on: **AI SupportBot**
-- 🌱 Learning: **Python**, **C**
-- 🤝 Collaboration: **AI Resume Projects**
-- 💬 Ask me: **Anything about my projects**
-- ⚡ Fun fact: **I love reading**
+- 🔭 **Currently hacking on**: **AI SupportBot**
+- 🌱 **Learning**: **Python**, **C**, **Deep Learning** 💡
+- 🤝 **Collaboration**: **AI Resume Projects**, **Code Sprints** 🔥
+- 💬 **Ask me**: **Anything about my projects or the future of tech**
+- ⚡ **Fun Fact**: **I devour books like a codebase.**
 
 ---
 
@@ -33,8 +33,6 @@
 <img src="https://img.shields.io/badge/PyTorch-6a5af9?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/SQLite-7df9ff?style=for-the-badge&logo=sqlite&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/TensorFlow-a680ff?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
-
-<!-- NEW LANGCHAIN BADGE -->
 <img src="https://img.shields.io/badge/LangChain-6a5af9?style=for-the-badge&logoColor=ffffff"/>
 </p>
 
@@ -42,9 +40,10 @@
 
 ### 💻 Terminal Output
 ```bash
-> booting profile...
-> initializing modules...
-> processing frameworks: Python / PyTorch / LangChain
-> threat level: stable
-> project pipeline: active
-> ready for execution.
+> booting profile... 🚀
+> initializing quantum modules... ⏳
+> processing frameworks: Python / PyTorch / LangChain / TensorFlow
+> threat level: [⚠️] elevated, monitoring... 
+> pipeline: **ACTIVE** 🔥
+> system status: all systems nominal
+> ready for execution... engaged. ⚡
