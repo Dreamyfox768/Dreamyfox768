@@ -11,7 +11,7 @@
 ---
 
 ### ⚡ Status
-- 🔭 **Currently hacking on**: **AI SupportBot**
+- 🔭 **Currently Working on**: **AI SupportBot**
 - 🌱 **Learning**: **Python**, **C**, **Deep Learning** 💡
 - 🤝 **Collaboration**: **AI Resume Projects**, **Code Sprints** 🔥
 - 💬 **Ask me**: **Anything about my projects or the future of tech**
@@ -43,7 +43,6 @@
 > booting profile... 🔒
 > initializing defense protocols... 🛡️
 > scanning for threats... [🔍]
-> processing tools: **Kali Linux**, **Wireshark**, **Nmap**, **Metasploit**, **Burp Suite**
 > threat level: [⚠️] elevated, active countermeasures deployed
 > defense system status: **SECURED** 🔒
 > ready for breach detection... engaged. 🔐
