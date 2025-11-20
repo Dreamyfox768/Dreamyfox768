@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Arduino-7df9ff?style=for-the-badge&logo=arduino&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/C-6a5af9?style=for-the-badge&logo=c&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/C++-8b6cf9?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CSS3-7df9ff?style=for-the-badge&logo=css3&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/CSS-7df9ff?style=for-the-badge&logo=css&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/HTML5-a680ff?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Kotlin-6a5af9?style=for-the-badge&logo=kotlin&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/Linux-7df9ff?style=for-the-badge&logo=linux&logoColor=1a1a1a"/>
