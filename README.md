@@ -1,11 +1,11 @@
 <!-- ====== CYBERPUNK-STYLE PROFILE ====== -->
 
 <h1 align="center">
-  <span style="color:#6a5af9;">💻✨ WELCOME TO MY DIGITAL WORLD</span>
+  <span style="color:#6a5af9;">💻✨ HELLO AND WELCOME 💻✨</span>
 </h1>
 
 <h2 align="center">
-  <span style="color:#7df9ff;">🚀 Aspiring Engineer | Tech Enthusiast | AI Architect</span>
+  <span style="color:#7df9ff;">🚀 Aspiring Engineer </span>
 </h2>
 
 ---
