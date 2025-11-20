@@ -1,7 +1,7 @@
 <!-- ====== FUTURISTIC PURPLE-BLUE PROFILE ====== -->
 
 <h1 align="center">
-  <span style="color:#6a5af9;">👋 Welcome</span>
+  <span style="color:#6a5af9;">👋 HELLO AND WELCOME!</span>
 </h1>
 
 <h2 align="center">
