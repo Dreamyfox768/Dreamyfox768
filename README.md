@@ -11,9 +11,9 @@
 ---
 
 ### ⚡ Status
-- 🔭 **Currently Working on**: **AI SupportBot**
+- 🔭 **Currently Working on**: **getting a job**
 - 🌱 **Learning**: **Python**, **C**, **Deep Learning** 💡
-- 🤝 **Collaboration**: **AI Resume Projects**, **Code Sprints** 🔥
+- 🤝 **Big Projects**: **AI Resume Projects**, **AI SupportBot**, **Tetris Game**🔥
 - 💬 **Ask me**: **Anything about my projects or the future of tech**
 - ⚡ **Fun Fact**: **I devour books like a codebase.**
 
