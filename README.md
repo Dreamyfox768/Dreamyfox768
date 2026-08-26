@@ -22,6 +22,7 @@
 ### 🎛️ Tech Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Arduino-7df9ff?style=for-the-badge&logo=arduino&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/JavaScript-6a5af9?style=for-the-badge&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C-6a5af9?style=for-the-badge&logo=c&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/C++-8b6cf9?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS-7df9ff?style=for-the-badge&logo=css&logoColor=1a1a1a"/>
