@@ -11,7 +11,7 @@
 ---
 
 ### ⚡ Status
-- 🔭 **Currently Working on**: **getting a job**
+- 🔭 **Currently Working on**: **applying to jobs** , **building my own website!**
 - 🌱 **Learning**: **Python**, **C**, **Deep Learning** 💡
 - 🤝 **Big Projects**: **AI Resume Projects**, **AI SupportBot**, **Tetris Game**🔥
 - 💬 **Ask me**: **Anything about my projects or the future of tech**
