@@ -27,13 +27,9 @@
 <img src="https://img.shields.io/badge/C++-8b6cf9?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS-7df9ff?style=for-the-badge&logo=css&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/HTML5-a680ff?style=for-the-badge&logo=html5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Kotlin-6a5af9?style=for-the-badge&logo=kotlin&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/Linux-7df9ff?style=for-the-badge&logo=linux&logoColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/Node.js-8b6cf9?style=for-the-badge&logo=nodedotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-7df9ff?style=for-the-badge&logo=python&logoColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/PyTorch-6a5af9?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/SQLite-7df9ff?style=for-the-badge&logo=sqlite&logoColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/TensorFlow-a680ff?style=for-the-badge&logo=tensorflow&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/LangChain-6a5af9?style=for-the-badge&logoColor=ffffff"/>
 </p>
 
