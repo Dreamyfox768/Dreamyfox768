@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Arduino-7df9ff?style=for-the-badge&logo=arduino&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/Linux-7df9ff?style=for-the-badge&logo=linux&logoColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/SQLite-7df9ff?style=for-the-badge&logo=sqlite&logoColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/LangChain-6a5af9?style=for-the-badge&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MacOS-6a5af9?style=for-the-badge&logoColor=ffffff"/>
 </p>
 
 ---
