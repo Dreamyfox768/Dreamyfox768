@@ -14,7 +14,6 @@
 - 🔭 **Currently Working on**: **applying to jobs** , **building websites!**
 - 🌱 **Learning**: **Python**, **C**, **JavaScript** 💡
 - 🤝 **Projects**: **AI Resume Projects**, **AI SupportBot**, **Tetris Game** , **focus website** 🔥
-- 💬 **Ask me**: **Anything about my projects or the future of tech**
 - ⚡ **Fun Fact**: **I devour books like a codebase.**
 
 ---
