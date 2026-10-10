@@ -11,9 +11,9 @@
 ---
 
 ### ⚡ Status
-- 🔭 **Currently Working on**: **applying to jobs** , **building my own website!**
+- 🔭 **Currently Working on**: **applying to jobs** , **building websites!**
 - 🌱 **Learning**: **Python**, **C**, **Deep Learning** 💡
-- 🤝 **Big Projects**: **AI Resume Projects**, **AI SupportBot**, **Tetris Game**🔥
+- 🤝 **Projects**: **AI Resume Projects**, **AI SupportBot**, **Tetris Game** , **focus website** 🔥
 - 💬 **Ask me**: **Anything about my projects or the future of tech**
 - ⚡ **Fun Fact**: **I devour books like a codebase.**
 
